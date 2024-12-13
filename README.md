@@ -6,6 +6,14 @@ This guide provides instructions on how to use Z-Sampling, a novel sampling meth
 
 Here we provide the inference code which supports ***Stable Diffusion XL***. More architectures will be released later.
 
+## Results
+
+![The qualitative results of Z-Sampling demonstrate the effectiveness of our method in
+various aspects, such as style, position, color, counting, text rendering, and object co-occurrence.](./res/showcase.jpg)
+
+![The winning rates of Z-Sampling over standard sampling. The blue bars represent the side
+of our method. The orange bars represent the side of the standard sampling](./res/winning_rate.jpg)
+
 ## Requirements
 
 - `python version == 3.10.14`
