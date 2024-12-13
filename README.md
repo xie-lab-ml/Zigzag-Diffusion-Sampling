@@ -8,11 +8,19 @@ Here we provide the inference code which supports ***Stable Diffusion XL***. Mor
 
 ## Results
 
-![The qualitative results of Z-Sampling demonstrate the effectiveness of our method in
-various aspects, such as style, position, color, counting, text rendering, and object co-occurrence.](./res/showcase.jpg)
+<div align="center">
+  ![The qualitative results of Z-Sampling demonstrate the effectiveness of our method in various aspects, such as style, position, color, counting, text rendering, and object co-occurrence.](./res/showcase.jpg)
+</div>
+<div align="center">
+  *The qualitative results of Z-Sampling demonstrate the effectiveness of our method in various aspects, such as style, position, color, counting, text rendering, and object co-occurrence.*
+</div>
 
-![The winning rates of Z-Sampling over standard sampling. The blue bars represent the side
-of our method. The orange bars represent the side of the standard sampling](./res/winning_rate.jpg)
+<div align="center">
+  ![The winning rates of Z-Sampling over standard sampling. The blue bars represent the side of our method. The orange bars represent the side of the standard sampling](./res/winning_rate.jpg)
+</div>
+<div align="center">
+  *The winning rates of Z-Sampling over standard sampling. The blue bars represent the side of our method. The orange bars represent the side of the standard sampling.*
+</div>
 
 ## Requirements
 
