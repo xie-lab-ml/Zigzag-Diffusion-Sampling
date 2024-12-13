@@ -1,4 +1,4 @@
-# Zigzag Diffusion Sampling: The Path to Success ls Zigzag
+# Zigzag Diffusion Sampling (Z-Sampling)
 
 ## Overview
 
