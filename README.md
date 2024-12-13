@@ -9,7 +9,7 @@ Here we provide the inference code which supports ***Stable Diffusion XL***. Mor
 ## Results
 
 <div align="center">
-![showcase](./res/showcase.jpg)
+  <img src="./res/showcase.jpg" width=90%/>
 </div>
 
 <div align="center">
