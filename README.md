@@ -11,10 +11,12 @@ Here we provide the inference code which supports ***Stable Diffusion XL***. Mor
 <div align="center">
   <img src="./res/showcase.jpg" width=90%/>
 </div>
+*The qualitative results of Z-Sampling demonstrate the effectiveness of our method in various aspects, such as style, position, color, counting, text rendering, and object co-occurrence.*
 
 <div align="center">
-![winning_raet](./res/winning_rate.jpg)
+  <img src="./res/winning_rate.jpg" width=60%/>
 </div>
+*The winning rates of Z-Sampling over standard sampling. The blue bars represent the side of our method. The orange bars represent the side of the standard sampling*
 
 ## Requirements
 
