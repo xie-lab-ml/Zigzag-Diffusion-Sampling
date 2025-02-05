@@ -87,14 +87,11 @@ Both images will be saved in the `--save_dir` with names based on the method and
 ## Citation
 
 ```bibtex
-@misc{bai2024zigzagdiffusionsamplingdiffusion,
+@inproceedings{bai2024zigzag,
       title={Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection}, 
       author={Lichen Bai and Shitong Shao and Zikai Zhou and Zipeng Qi and Zhiqiang Xu and Haoyi Xiong and Zeke Xie},
-      year={2024},
-      eprint={2412.10891},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.10891}, 
+      booktitle ={International Conference on Learning Representations},
+      year = {2024}, 
 }
 ```
 
