@@ -10,7 +10,7 @@ This guide provides instructions on how to use Z-Sampling, a novel sampling meth
 
 Here we provide the inference code which supports ***Stable Diffusion XL***. More architectures will be released later.
 
-An upgraded version is Z-Sampling is our new work Weak-to-Strong Diffusion (W2SD), which is publicly avaliable at https://github.com/xie-lab-ml/Weak-to-Strong-Diffusion-with-Reflection.
+An upgraded version of Z-Sampling is released as our new work Weak-to-Strong Diffusion (W2SD), which is publicly avaliable at https://github.com/xie-lab-ml/Weak-to-Strong-Diffusion-with-Reflection.
 
 ## Abstract
 
