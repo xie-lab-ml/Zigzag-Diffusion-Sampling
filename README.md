@@ -2,7 +2,9 @@
 
 ## News 🚀️
 
-Our paper 'Z-Sampling' has been accepted by ICLR 2025. 🎉🌸🎉
+Our paper ***Z-Sampling*** has been accepted by ICLR 2025. 🎉🌸🎉
+
+An upgraded verision, "[Weak-to-Strong Diffusion](https://github.com/xie-lab-ml/Weak-to-Strong-Diffusion-with-Reflection)", has been accepted by ICLR 2026. 🎉🌸🎉
 
 ## Overview
 
